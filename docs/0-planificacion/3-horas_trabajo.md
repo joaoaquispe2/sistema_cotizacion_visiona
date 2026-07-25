@@ -12,10 +12,10 @@ Durante el desarrollo del proyecto, es posible realizar actividades no previstas
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Recopilar información | 22/07/26 | 22/07/06 | 30 min | 22/07/26 | 22/07/06 | 20 min | 10 min | Terminado :white_check_mark: | 
 | 2 | Análisis FODA CANVAS | 23/07/26 | 23/07/26 | 1 hora | 23/07/26 | 23/07/26 | 1.5 horas | 30 min | Terminado :white_check_mark: | 
-| 3 | Realizar entrevista | 24/07/26 | 24/07/26 | 30 min | — | — | — | — | Pendiente |
-| 4 | Observar el proceso actual | 24/07/26 | 24/07/26 | 15 min | — | — | — | — | Pendiente | 
-| 5 | Documentar el proceso actual | 24/07/26 | 24/07/26 | 1 hora | — | — | — | — | Pendiente |
-| 6 | Análisis causa efecto | 24/07/26 | 24/07/26 | 30 min | — | — | — | — | Pendiente |
+| 3 | Realizar entrevista | 24/07/26 | 24/07/26 | 30 min | 24/07/26 | 24/07/26 | 30 min | 0 min | Terminado :white_check_mark:|
+| 4 | Observar el proceso actual | 24/07/26 | 24/07/26 | 15 min | 24/07/26 | 24/07/26 | 10 min | 5 min | Terminado  :white_check_mark:| 
+| 5 | Documentar el proceso actual | 24/07/26 | 24/07/26 | 1 hora | 24/07/26 | 24/07/26 | 1 hora | 0 min | Terminado  :white_check_mark:|
+| 6 | Análisis causa efecto | 24/07/26 | 24/07/26 | 30 min | 24/07/26 | 24/07/26 | 25 min | 5 min | Terminado  :white_check_mark:|
 | 7 | Plantear Solución | 24/07/26 | 24/07/26 | 1 hora | — | — | — | — | Pendiente |
 | 8 | Documentar el proceso propuesto | 24/07/26 | 24/07/26 | 30 min | — | — | — | — | Pendiente |
 | 9 | Validar la propuesta con la empresa | 24/07/26 | 24/07/26 | 10 min | — | — | — | — | Pendiente |
@@ -24,8 +24,8 @@ Durante el desarrollo del proyecto, es posible realizar actividades no previstas
 
 | ID | Actividad | Fecha de inicio estimada | Fecha de fin estimada | Tiempo estimado | Fecha de inicio real | Fecha de fin real | Tiempo real | Variación | Estado |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Identificar stakeholders| — | — | — | — | — | — | — | Pendiente |
-| 2 | Recopilar necesidades | — | — | — | — | — | — | — | Pendiente |
+| 1 | Recopilar necesidades | — | — | — | — | — | — | — | Pendiente |
+| 2 | Identificar stakeholders| — | — | — | — | — | — | — | Pendiente |
 | 3 | Definir objetivos y alcance| — | — | — | — | — | — | — | Pendiente |
 | 4 | Identificar requisitos funcionales | — | — | — | — | — | — | — | Pendiente |
 | 5 | Identificar requisitos no funcionales | — | — | — | — | — | — | — | Pendiente |

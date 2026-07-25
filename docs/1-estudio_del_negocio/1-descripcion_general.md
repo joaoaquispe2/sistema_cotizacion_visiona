@@ -1,5 +1,7 @@
 # Análisis Visiona
 
+El presente documento tiene como objetivo realizar un resumen básico de la empresa Visiona, conociendo de manera general su estructura y servicios que ofrece.
+
 ### Descripción General
 
 Visiona, es una consultora peruana, especializada en el diseño e implantación de sistemas de gestión para empresas nacionales y transnacionales. Estos proyectos son dirigidos por su staff de asesores multidisciplinarios, con experiencia y calificaciones reconocidas en el rubro.

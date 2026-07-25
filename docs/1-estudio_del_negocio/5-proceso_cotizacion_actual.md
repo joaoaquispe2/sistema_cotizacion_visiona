@@ -18,13 +18,27 @@ Documento Word en el cual llenan los datos necesarios de acuerdo al cliente, tip
 
 Libro de Excel en el que se guardan todas las cotizaciones realizadas, separadas por año. Cada hoja del libro contiene un año diferente, en el cual están registrados cada cotización con los datos respectivos; sim embargo, la tabla usada cada año varía, no hay validación de tipos de datos, fechas, precios, nombres, etc. Esta información sirve únicamente para tener un registro histórico y para copiar datos de cliente, no siento útil como base de datos integrada que permita rellenar la plantilla más velozmente. A continuación dos imagenes correspondientes a las cotizaciones del año 2020: [^1] 
 
-<img width="800" alt="image" src="files/historico_cotizaciones_1.png" />   
+<img width="1000" alt="image" src="files/historico_cotizaciones_1.png" />   
 
 Registro histórico cotizaciones 1  
 
-<img width="800"  alt="image" src="files/historico_cotizaciones_2.png" />  
+<img width="1000"  alt="image" src="files/historico_cotizaciones_2.png" />  
 
 Registro histórico cotizaciones 2
+
+### **3. Excel de Cálculo de Presupuesto**
+
+Libro de Excel en el cuál se incluyen todos los costos del servicio y que sirve para completar la plantilla de cotización mencionada anteriormente. Este documento no se realiza para todas las solicitudes de cotizaciones, solo para algunas específicas que resultan complicadas. Por otro lado, también es importante mencionar que no existe una plantilla para este cálculo, por lo que cada Presupuesto tiene un formato distinto. A continuación una imagen de ejmplo del cálculo de presupuesto para un proyecto de asesoría de 6 días de la ISO 17020:
+
+<img width="1000"  alt="image" src="files/plantilla_presupuesto.png" />  
+
+### **4. Servicio de Almacenamiento en la Nube**
+
+La empresa cuenta con un servicio de Mega, en el cual guardan toda la información de las cotizaciones, todos los documentos enviados, el Excel histórico y los Excel de presupuestos. Sin embargo la carpeta no se encuentra estandarizada al 100%. Las carpetas se encuentran divididas primero por clientes, luego por año y finalmente por servicio; pero no en todos los casos se cumplen, hay elementos dispersos en cada cliente, otros documentos como facuturas y no hay correcto seguimiento de versiones.
+
+### **5. Correo Electrónico**
+
+El mecanismo por el cuál reciben y envián información a los clientes. Actualmente lo realizan por medio de Outlook y cuentan con un dominio de correo electrónico para la empresa.
 
 ## Diagrama de Proceso (AS IS)
 

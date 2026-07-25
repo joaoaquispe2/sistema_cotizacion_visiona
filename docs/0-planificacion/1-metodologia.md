@@ -40,8 +40,8 @@ En esta segunda etapa se busca definir de manera clara y organizada las funcione
 
 ### Actividades principales
 
-- Identificar a los usuarios y actores del sistema.
 - Recopilar las necesidades de cada usuario mediante entrevista.
+- Identificar a los usuarios y actores del sistema.
 - Definir los objetivos y alcance del sistema.
 - Identificar los requisitos funcionales.
 - Identificar los requisitos no funcionales.
